@@ -1,0 +1,28 @@
+body {
+  background-color: #eee;
+}
+
+fieldset {
+  font-size: 2em;
+  font-family: sans-serif;
+  width: 400px;
+  margin: 3rem auto;
+  padding: 1em;
+}
+
+input[type="text"] {
+	height: 3em;
+	width: 100%;
+}
+
+input {
+	font-size: 1rem;
+}
+
+button {
+  height: 2em;
+  width: 4rem;;
+  float: right;
+  margin-top: 1em;
+  font-size: 1rem;
+}
